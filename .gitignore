@@ -3,3 +3,5 @@
 /images
 /.vscode
 cpp_programming/gcd_efficient
+
+*.out
